@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"name":"Andaman \u0026amp; Nicobar Islands","field_sector_record":""},
+ {"name":"Andhra Pradesh","field_sector_record":"Textiles \u0026amp; Garments"},
+ {"name":"Andhra Pradesh","field_sector_record":"Thermal Power"},
+ {"name":"Andhra Pradesh","field_sector_record":"Mining"},
+ {"name":"Andhra Pradesh","field_sector_record":"Renewable Energy\t"},
+ {"name":"Andhra Pradesh","field_sector_record":"Ports \u0026amp; Shipping"},
+ {"name":"Andhra Pradesh","field_sector_record":"Electronic Systems"},
+ {"name":"Andhra Pradesh","field_sector_record":"Automobile"},
+ {"name":"Andhra Pradesh","field_sector_record":"Aviation"},
+ {"name":"Andhra Pradesh","field_sector_record":"Food Processing"}]
